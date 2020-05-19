@@ -3,6 +3,7 @@
 ## Table of contents
 * [Introduction](#introduction)
 * [Technologies](#technologies)
+* [Certificate](#certificate)
 
 ## Introduction
 This is a repository of my projects and exercise solutions for the Udemy course, [Tensorflow 2.0: Deep Learning and Artificial Intelligence](https://www.udemy.com/course/deep-learning-tensorflow-2/).
@@ -15,5 +16,9 @@ The repo *.ipynb files contain headers describing the code, followed by the code
 ## Technologies
 - Python 3.6.9
 - Matplotlib 3.1.1
+- Seaborn 0.10.1
 - Scikit-Learn 0.22.2.post1
 - Tensorflow  2.2.0
+
+## Certificate
+<p align="center"><img src="./Tensorflow_2.0_Deep_Learning_and_Artificial_Intelligence_Certificate.jpg"></p>
