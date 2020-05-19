@@ -11,7 +11,7 @@ This is a repository of my projects and exercise solutions for the Udemy course,
 This course was created by: Lazy Programmer Inc., Lazy Programmer Team.
 The projects and exercises were completed by Jose Nicolas Mora (me).
 
-The repo *.ipynb files contain headers describing the code, followed by the code itself, and plots created. These *.ipynb Python file allow for the code, and plots created by the code, to be visible on Github itself without needing to run the code. This can be done by clicking on the *.ipynb file of an exercise or project on GitHub.
+The repo *.ipynb files contain headers describing the code, followed by the code itself, and plots created. These *.ipynb Python files allow for the code, and plots created by the code, to be visible on Github itself without needing to run the code. This can be done by clicking on the *.ipynb file of an exercise or project on GitHub.
 
 ## Certificate of Completion
 <p align="center"><img src="./Tensorflow_2.0_Deep_Learning_and_Artificial_Intelligence_Certificate.jpg"></p>
