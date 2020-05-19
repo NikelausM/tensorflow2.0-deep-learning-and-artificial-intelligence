@@ -18,6 +18,8 @@ The repo *.ipynb files contain headers describing the code, followed by the code
 
 ## Technologies
 - Python 3.6.9
+- Numpy 1.18.4
+- Pandas 1.0.3
 - Matplotlib 3.1.1
 - Seaborn 0.10.1
 - Scikit-Learn 0.22.2.post1
