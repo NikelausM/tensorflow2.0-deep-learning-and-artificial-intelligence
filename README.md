@@ -2,8 +2,8 @@
 
 ## Table of contents
 * [Introduction](#introduction)
-* [Technologies](#technologies)
 * [Certificate of Completion](#certificate)
+* [Technologies](#technologies)
 
 ## Introduction
 This is a repository of my projects and exercise solutions for the Udemy course, [Tensorflow 2.0: Deep Learning and Artificial Intelligence](https://www.udemy.com/course/deep-learning-tensorflow-2/).
